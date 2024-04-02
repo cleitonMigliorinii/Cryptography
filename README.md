@@ -29,6 +29,12 @@ pip install cryptography
 pip install pycryptodome
 pip install tk
 ```
+## Cifra de Cesar
+Para executar o exemplo da cifra de cesar, execute o seguinte comando:
+
+```bash
+caesarCipher.py
+```
 
 ## Criptografia Simétrica
 Para executar os exemplos de criptografia simétrica, execute o seguinte comando:
@@ -39,7 +45,7 @@ python symmetric_crypto.py
 
 Este script demonstrará como criptografar e descriptografar mensagens utilizando criptografia simétrica.
 
-Criptografia Assimétrica
+##Criptografia Assimétrica
 Para executar os exemplos de criptografia assimétrica, execute o seguinte comando:
 
 ```bash
